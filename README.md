@@ -1,6 +1,6 @@
 # Hi there, I'm Rishikesh Kumar 👋
 
-Welcome to my GitHub profile! I’m a **Lead Software Engineer** with over **9 years of professional experience** in building scalable, distributed, and cloud-native systems for financial and healthcare domains.
+Welcome to my GitHub profile! I’m a **Lead Software Engineer** with over **12 years of professional experience** in building scalable, distributed, and cloud-native systems for financial and healthcare domains.
 
 ---
 
@@ -41,9 +41,9 @@ Welcome to my GitHub profile! I’m a **Lead Software Engineer** with over **9 y
 
 ## 📫 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rishikesh-kumar/) *(update if needed)*
-* 🌐 [Personal Blog or Portfolio](#) *(optional)*
-* ✉️ [rishikesh@example.com](mailto:rishikesh@example.com) *(replace with actual if desired)*
+* 💼 [LinkedIn](https://www.linkedin.com/in/rishikesh-kumar-0b258220/)
+* 🌐 [Personal Blog or Portfolio]
+* ✉️ [rishikeshkmr5@gmail.com](mailto:rishikeshkmr5@gmail.com)
 
 ---
 
